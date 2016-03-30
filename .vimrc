@@ -9,3 +9,8 @@ set fileencodings=ucs-bom,utf-8,latin1
 set mouse=a
 set linebreak
 set fencs=latin2
+filetype indent on
+set wildmenu
+set showmatch
+set tabstop=4
+set shiftwidth=4
