@@ -5,10 +5,10 @@ set number
 syntax on
 startinser
 set encoding=utf-8
-set fileencodings=ucs-bom
+set fileencodings=usc-bom,utf-8,cp1250
 set mouse=a
 set linebreak
-set fencs=latin2
+set fenc=utf8
 filetype indent on
 set wildmenu
 set showmatch
